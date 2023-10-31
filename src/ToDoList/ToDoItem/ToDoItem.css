@@ -1,0 +1,21 @@
+.todoItems{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: 5px dotted black;
+    display: block;
+    margin-top: 10px;
+}
+
+.title{
+    text-align: center;
+    border: 2px solid white;
+}
+
+.buttonToDo {
+    position: absolute;
+    width: 150px;
+    bottom: 5px;
+    left: 50%;
+    margin-left: -75px;
+}

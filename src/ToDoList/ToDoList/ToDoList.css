@@ -1,0 +1,12 @@
+.listBox{
+    display: flex;
+    position: absolute;
+    height: 450px;
+    width: 750px;
+    top: 100px;
+    left: 50%;
+    margin-left: -250px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: auto; 
+}

@@ -1,0 +1,23 @@
+.main_box {
+  position: absolute;
+  left: 10px;
+  top: 10px
+}
+
+.inputToDo {
+  width: 100%;
+  height: 25px;
+}
+
+.buttonAdd {
+  position: relative;
+  height: 20px;
+  width: 50px;
+  left: 50%;
+  margin-left: -25px;
+}
+
+.text {
+  text-align: center;
+}
+  

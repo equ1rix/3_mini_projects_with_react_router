@@ -1,0 +1,36 @@
+ 
+  .formBlock {
+    position: absolute;
+    width: 140px;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    top: 50%;
+    left: 50%;
+    margin-top: -95px;
+    margin-left: -56.5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    border-radius: 6px;
+  }
+  
+  .formBlock input {
+    width: 100%;
+    height: 30px;
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .buttonConv {
+    margin-top: 10px;
+  }
+  
+  .formBlock p {
+    text-align: center;
+  }
+  
+  
+  
